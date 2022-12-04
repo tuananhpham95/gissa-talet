@@ -1,0 +1,22 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.container{
+    max-width: 500px;
+    margin: 50px auto;
+    height: 300px;
+    background-color: aquamarine;
+}
+.title h1 {
+    text-align: center;
+}
+.title p{
+    text-align: center;
+    margin-top: 10px;
+}
+.user_input{
+    text-align: center;
+    margin-top: 20px;
+}
